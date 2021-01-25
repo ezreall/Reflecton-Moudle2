@@ -1,6 +1,7 @@
 # Reflecton-Moudle2
 
 reflection ngày 25/1/2021 
+
 Web tĩnh
 Web tĩnh là những website không có hệ thống quản lý nội dung và người dùng không thể chỉnh sửa được hoặc có thể chỉnh sửa, thay đổi dữ liệu được. 
 
